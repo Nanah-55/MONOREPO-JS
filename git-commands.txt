@@ -1,0 +1,14 @@
+
+# git init
+# git commit -m "new commit"
+# git push -u origin main
+# git commit -m "add empty backend directory"
+# git branch frontend-layout
+# git commit -m "add content dynamically to page via javascript"
+# git push origin frontend-layout 
+# git pull origin main
+# git merge frontend-layout
+# git commit  -m "add index.html file"
+# git push
+# git switch commands
+# git commit -m "document git commands in git-commands.txt"
